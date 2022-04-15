@@ -1,0 +1,63 @@
+form{
+   border:1px solid black;
+   }
+   input[type=text],input[type=password]{
+	   width:100%;
+	   padding:12x 20px;
+	   margin:8px 0;
+	   border:1px solid blue;
+	   display:inline-block;
+	   box-sizing:border-box;
+   }
+   button{
+	   background-color:blue;
+	   color:white;
+	   padding:10px 20px;
+	   margin:20px;
+   }
+   button:hover{
+   opacity:0.5;
+   }
+   h1{
+	   text-align:center;
+   }
+	#container{
+		
+		padding:10px;
+		margin:20px;
+		width:50px;
+		
+	}
+	#pass{
+		padding:10px;
+		margin-left:20px;
+		text-align:center;
+		width:12%;
+		border:2px solid black;
+		
+	}
+	#name{
+		padding:10px;
+		margin-left:20px;
+		text-align:center;
+		width:10%;
+		border:2px solid black;
+		
+	}
+	#uname{
+		font-size:20px;
+		color:red;
+		text-align:center;
+		background-color:white;
+		margin:10px 20px;
+		
+	}
+	#upass{
+		font-size:20px;
+		color:red;
+		text-align:center;
+		background-color:white;
+		margin:10px 20px;
+		
+	}
+	
